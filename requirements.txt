@@ -1,5 +1,5 @@
 # Exact versions to ensure correct library installation
-functions-framework=3.4.0
-gspread=5.12.4
-google-auth=2.29.0
-requests=2.31.0
+functions-framework==3.4.0
+gspread==5.12.4
+google-auth==2.29.0
+requests==2.31.0
